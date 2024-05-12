@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, this is Rakshana S</h1>
-<h3 align="center"> <a href="" target="blank"><img align="center" src="https://icons8.com/icon/NFYds2BcW2wL/laptop-settings" alt="mailto:rakshanas3933@gmail.com" height="30" width="40" />Web developer Enthusiast</h3>
+<h3 align="center"> Web developer Enthusiast</h3>
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
