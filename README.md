@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rakshana S</h1>
-<h3 align="center">Web developer and Software developer Enthusiast</h3>
+<h1 align="center">Hello 👋, this is Rakshana S</h1>
+<h3 align="center"> <a href="" target="blank"><img align="center" src="https://icons8.com/icon/NFYds2BcW2wL/laptop-settings" alt="mailto:rakshanas3933@gmail.com" height="30" width="40" />Web developer Enthusiast</h3>
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/rakshana-s-93797620a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/rakshana-s-93797620a" height="30" width="40" /></a>
 <a href="https://instagram.com/_raksh_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_raksh_s" height="30" width="40" /></a>
-  <a href="https://gmail.com//rakshanas3933@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/6e205fb1f7c1027e7f8dc58657667c6032ff419c88ea80f3bd4c23e1b69db040/68747470733a2f2f696d672e69636f6e73382e636f6d2f646f6f646c652f32782f676d61696c2e706e67" alt="rakshanas3933@gmail.com" height="30" width="40" /></a>
+  <a href="mailto:rakshanas3933@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/6e205fb1f7c1027e7f8dc58657667c6032ff419c88ea80f3bd4c23e1b69db040/68747470733a2f2f696d672e69636f6e73382e636f6d2f646f6f646c652f32782f676d61696c2e706e67" alt="mailto:rakshanas3933@gmail.com" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rakshanas3933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rakshanas3933" height="30" width="40" /></a>
 </p>
 
