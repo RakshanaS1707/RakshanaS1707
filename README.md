@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, Laravel, PHP ,Machine Learning, ReactJS, MongoDB**
 
-- 📫 How to reach me **rakshanas1707@gmail.com**
+- 📫 Reach me through **rakshanas1707@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/rakshana-s-93797620a](linkedin.com/in/rakshana-s-93797620a)
 
